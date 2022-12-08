@@ -1,0 +1,23 @@
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-image: url("C:\Users\oktay\Desktop\bj.png");
+background-size: cover;
+text-align: center;
+color: rgb(141, 24, 24);
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color:#016f32;
+    width: 150px;
+    color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border:none;
+    border-radius: 2px;
+}
